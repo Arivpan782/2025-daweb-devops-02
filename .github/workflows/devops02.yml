@@ -12,7 +12,6 @@ on:
 
 jobs:
   build:
-    build:
     name: build and push Docker image
     runs-on: ubuntu-latest
     steps: 
